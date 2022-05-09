@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1738
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT_ktra1_VyQuangHiep", "BT_ktra1_VyQuangHiep\BT_ktra1_VyQuangHiep.csproj", "{2DE32E64-5C41-4A9E-B645-8377DEF0E59D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DE32E64-5C41-4A9E-B645-8377DEF0E59D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DE32E64-5C41-4A9E-B645-8377DEF0E59D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DE32E64-5C41-4A9E-B645-8377DEF0E59D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DE32E64-5C41-4A9E-B645-8377DEF0E59D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F15933C-2D18-4265-B50D-D1FEE1260732}
+	EndGlobalSection
+EndGlobal

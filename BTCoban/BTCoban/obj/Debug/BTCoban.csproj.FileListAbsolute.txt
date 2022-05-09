@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\BTCoban\BTCoban\bin\Debug\BTCoban.exe.config
+C:\Users\Administrator\source\repos\BTCoban\BTCoban\bin\Debug\BTCoban.exe
+C:\Users\Administrator\source\repos\BTCoban\BTCoban\bin\Debug\BTCoban.pdb
+C:\Users\Administrator\source\repos\BTCoban\BTCoban\obj\Debug\BTCoban.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\BTCoban\BTCoban\obj\Debug\BTCoban.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\BTCoban\BTCoban\obj\Debug\BTCoban.exe
+C:\Users\Administrator\source\repos\BTCoban\BTCoban\obj\Debug\BTCoban.pdb

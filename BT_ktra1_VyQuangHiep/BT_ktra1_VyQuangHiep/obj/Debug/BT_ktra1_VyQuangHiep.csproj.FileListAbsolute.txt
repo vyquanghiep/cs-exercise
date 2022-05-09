@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\BT_ktra1_VyQuangHiep\BT_ktra1_VyQuangHiep\obj\Debug\BT_ktra1_VyQuangHiep.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\BT_ktra1_VyQuangHiep\BT_ktra1_VyQuangHiep\obj\Debug\BT_ktra1_VyQuangHiep.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\BT_ktra1_VyQuangHiep\BT_ktra1_VyQuangHiep\bin\Debug\BT_ktra1_VyQuangHiep.exe.config
+C:\Users\Administrator\source\repos\BT_ktra1_VyQuangHiep\BT_ktra1_VyQuangHiep\bin\Debug\BT_ktra1_VyQuangHiep.exe
+C:\Users\Administrator\source\repos\BT_ktra1_VyQuangHiep\BT_ktra1_VyQuangHiep\bin\Debug\BT_ktra1_VyQuangHiep.pdb
+C:\Users\Administrator\source\repos\BT_ktra1_VyQuangHiep\BT_ktra1_VyQuangHiep\obj\Debug\BT_ktra1_VyQuangHiep.exe
+C:\Users\Administrator\source\repos\BT_ktra1_VyQuangHiep\BT_ktra1_VyQuangHiep\obj\Debug\BT_ktra1_VyQuangHiep.pdb

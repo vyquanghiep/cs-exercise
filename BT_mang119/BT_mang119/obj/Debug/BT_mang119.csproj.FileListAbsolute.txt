@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\BT_mang119\BT_mang119\bin\Debug\BT_mang119.exe.config
+C:\Users\Administrator\source\repos\BT_mang119\BT_mang119\bin\Debug\BT_mang119.exe
+C:\Users\Administrator\source\repos\BT_mang119\BT_mang119\bin\Debug\BT_mang119.pdb
+C:\Users\Administrator\source\repos\BT_mang119\BT_mang119\obj\Debug\BT_mang119.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\BT_mang119\BT_mang119\obj\Debug\BT_mang119.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\BT_mang119\BT_mang119\obj\Debug\BT_mang119.exe
+C:\Users\Administrator\source\repos\BT_mang119\BT_mang119\obj\Debug\BT_mang119.pdb
